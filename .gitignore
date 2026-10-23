@@ -1,4 +1,11 @@
+
 *
-!agent.py
-!media_tools.py
+
 !.gitignore
+
+
+!agent/
+
+
+!agent/agent.py
+!agent/media_tools.py
